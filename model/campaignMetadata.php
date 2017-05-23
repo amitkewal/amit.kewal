@@ -50,4 +50,6 @@ class campaignMetadata
 
     public function fetchActiveCampaigns() {}
 
+    //fetch all qualified campaigns for given item
+    public function getQualifiedCampaignsByItem() {}
 }
