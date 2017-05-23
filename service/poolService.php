@@ -21,7 +21,12 @@ class poolService
 		SCROLL_API_CALL to ELASTIC
 
 		//The response which is obtained from scroll API will be dumped into the amazon kniesis.
-	} 
+	}
+
+	public function kinesisENQueue()
+	{
+
+	}
 
 }
 
