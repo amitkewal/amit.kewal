@@ -4,7 +4,7 @@ abstract class ElasticQuery
 
 	public function createQuery()
 	{
-	//fetching the campaign Criterias
+	//fetching the campaign Criterias and build query
 	}
 
 	public function formCriteriaParams()
