@@ -18,7 +18,7 @@ class CampaignWebserviceController extends Controller {
    }
 
    //fetch details for given list of campaign items
-   public function getEligbleCampaignByItems(Request $request){
+   public function getEligbleCampaigns(Request $request){
 
        return $json;
    }
