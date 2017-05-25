@@ -9,7 +9,8 @@ abstract class ElasticQuery
 
 	public function formCriteriaParams()
 	{
-	//fetching the campaign Criterias
+		//fetching the campaign Criterias
+		//fetch data from profile index
 	}
 
 	public function parseResult()
